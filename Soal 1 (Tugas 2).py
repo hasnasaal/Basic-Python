@@ -31,7 +31,6 @@ def menusatu() :
         print("Nomor Telepon: ",listNomor[x])
     fungsiMenu()
 
-
 #fungsi menu dua
 def menudua() :
     listNama.append(str(input("Nama: ")))
